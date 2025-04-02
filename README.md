@@ -120,41 +120,7 @@
 **常规优惠**：无；  
 **购买建议**：新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；  
 
-**注册地址**：[ns8dh2n8c3.ykkk.best](https://ns8dh2n8c3.ykkk.best/#/register?code=igEKGZtF) （最新可登陆域名）；[8xn3salcd.ykkk.best](https://8xn3salcd.ykkk.best/#/register?code=igEKGZtF) ；[cloud.ykkk.tech](https://cloud.ykkk.tech/#/register?code=igEKGZtF) （新增跳转域名）；  
-
-## OuO 机场
-
-**原文地址**：https://limbopro.com/archives/27873.html
-
-### 近期测速
-![OuO Network机场近期测速 - photo_2025-02-07.jpg](https://limbopro.com/usr/uploads/2025/02/638772101.png)
-![OuO Network机场近期测速 - photo_2024-10-07.jpg][339]
-- [最新测速记录][1101]
-
-### 套餐价格
-
-| 套餐  | 流量/价格 | 季付  | 半年付 | 年付**折后** |
-| --- | --- | --- | --- | --- |
-| 小杯  | 100GB/￥10/月 | ￥30/季 | ￥60/半年 | ￥100/年付 |
-| 中杯  | 200GB/￥18/月 | ￥54/季 | ￥108/半年 | ￥180/年付 |
-| 大杯  | 500GB/￥43/月 | ￥129/季 | ￥258/半年 | ￥430/年付 |
-| 2024特别限定杯 | 600GB/￥188/年 | -   | -   | -   |
-
-**各套餐年付时有相应优惠**；个人使用不限制设备数量；其他需注意的是，**手续费**为订单金额的10%；如小杯套餐年付，**实际需支付金额**为 100 + 100*0.1 = 110元；套餐如有变动，请以实际套餐价格为准；
-
-> **机场创建于**：2023年9月；  
-**清单存续状态**：于2024年1月10日加入本清单；  
-**新站注明**：处于新站观察期；  
-**chatGPT解锁适用**：适用，处于积极解锁状态；  
-**流媒体解锁适用**：Netflix/Disney+/Youtube/PCR等常规流媒体解锁；  
-**单位每元可使用流量**：折后约合10-16Gb/元；  
-**支持协议**：SS协议；  
-***节点特性**：广港IEPL（自营落地），杭州移动，安徽移动，长沙移动 多线多接入点保证SLA  
-**节点倍率**：1倍率；  
-**活动优惠**：暂无；  
-**购买建议**：新站观察期；新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；  
-  
-**注册地址**：[board.ouonet.work](https://board.ouonet.work/register?aff=nuoRepOB)  
+**注册地址**：[ns8dh2n8c3.ykkk.best](https://ns8dh2n8c3.ykkk.best/#/register?code=igEKGZtF) （最新可登陆域名）；[cloud.ykkk.tech](https://cloud.ykkk.tech/#/register?code=igEKGZtF) （新增跳转域名）；  
 
   [111]: https://limbopro.com/usr/uploads/2024/01/1182877008.jpg
   [222]: https://www.pexels.com/photo/white-and-black-mountain-wallpaper-933054/
