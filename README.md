@@ -7,7 +7,7 @@
 
 > **新年快乐🎆**！特此更新；
 
-> 最近可用状态更新于：04.02.2025 09.36.45
+> 最近可用状态更新于：04.08.2025 12.26.15
 
 
 **SS机场/v2Ray机场/Trojan机场/SSR机场推荐（2019-~~2024~~2025）**
@@ -120,7 +120,9 @@
 **常规优惠**：无；  
 **购买建议**：新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；  
 
-**注册地址**：[ns8dh2n8c3.ykkk.best](https://ns8dh2n8c3.ykkk.best/#/register?code=igEKGZtF) （最新可登陆域名）；[cloud.ykkk.tech](https://cloud.ykkk.tech/#/register?code=igEKGZtF) （新增跳转域名）；  
+**注册地址**：[client.ykkk.best](https://client.ykkk.best/#/register?code=igEKGZtF) （最新可登陆域名）； 
+
+
 
   [111]: https://limbopro.com/usr/uploads/2024/01/1182877008.jpg
   [222]: https://www.pexels.com/photo/white-and-black-mountain-wallpaper-933054/
