@@ -1,7 +1,8 @@
 
 ## 较为好用的便宜机场推荐
+100GB/¥15/月起，最高享8折优惠
 
-> 2019-~~2024~~2025年，博主所在用的，较为稳定且晚高峰表现还算不错的SS/v2Ray/Trojan机场，支持月付，线路包含IEPL、Zenlayer、CC跨境内网专线，支持ChatGPT/Netflix等海外流媒体稳定解锁，**原文**会保持更新，以便大家不时之需；
+2019-~~2024~~2025年，博主所在用的，较为稳定且晚高峰表现还算不错的SS/v2Ray/Trojan机场，支持月付，线路包含IEPL、Zenlayer、CC跨境内网专线，支持ChatGPT/Netflix等海外流媒体稳定解锁，**原文**会保持更新，以便大家不时之需；
 
 > 随原文同步更新，无需翻墙即可查阅🍅，欢迎大家Star ✨🌟；
 
@@ -12,7 +13,7 @@
 **SS机场/v2Ray机场/Trojan机场/SSR机场推荐（2019-~~2024~~2025）**
 **原文地址**：https://limbopro.com/865.html
 
-博主的其他项目：https://github.com/limbopro —— iOS去网页广告/QX懒人配置/跑路机场名单收集/...  
+其他项目：https://github.com/limbopro —— iOS去网页广告/QX懒人配置/跑路机场名单收集/...  
 机场情报电报频道：https://t.me/airportbbq ——机场各类情报ℹ️更新；  
 毒奶博客资讯电报频道：https://t.me/limboprossr —— 毒奶博客相关资讯ℹ️更新（各类文章/IT资讯/小Tips...）；  
 反馈/联系🤖：https://t.me/limboprobot / service.limbopro.com@gmail.com  
