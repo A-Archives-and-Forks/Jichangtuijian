@@ -35,6 +35,13 @@
 
 **注册地址**：[client.ykkk.best](https://client.ykkk.best/#/register?code=igEKGZtF) （最新可登陆域名）； 
 
+### 节日优惠活动
+
+> **节日活动优惠**：  
+🏀 劳动节优惠活动：  
+🔎 全场 8 折：**20%OFF**  
+有效期至：2025/05/05 23:59 (UTC+8)  
+
 [111]: https://limbopro.com/usr/uploads/2024/01/1182877008.jpg
   [222]: https://www.pexels.com/photo/white-and-black-mountain-wallpaper-933054/
   [333]: https://limbopro.com/usr/uploads/2024/01/1204297660.jpg
