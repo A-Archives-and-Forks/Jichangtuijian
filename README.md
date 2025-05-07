@@ -9,7 +9,7 @@
 
 > **新年快乐🎆**！特此更新；
 
-> 最近可用状态更新于：05.03.2025
+> 最近可用状态更新于：05.07.2025
 
 **SS机场/v2Ray机场/Trojan机场/SSR机场推荐（2019-~~2024~~2025）**
 **原文地址**：https://limbopro.com/865.html
@@ -25,9 +25,8 @@
 **原文地址**：https://limbopro.com/archives/flyingbird.html
 
 ### 近期测速
+![FlyingBird 机场测速-20250507][20250507]
 ![FlyingBird 机场测速-20250408][20250408]
-![FlyingBird 机场测速-20250306][20250306]
-![FlyingBird 机场测速-20250206][20250206]
 - [最新测速记录][7]
 
 ### 套餐价格
@@ -66,8 +65,8 @@
 **原文地址**：https://limbopro.com/archives/trojan_1yunti.html
 
 ### 近期测速
+![1云梯机场近期测速 20250507](https://limbopro.com/usr/uploads/2025/05/879908103.png)
 ![1云梯机场近期测速 20250306](https://limbopro.com/usr/uploads/2025/03/3415340292.png)
-![1云梯机场近期测速 20250206](https://limbopro.com/usr/uploads/2025/02/1987569891.png)
 - [最新测速记录](https://limbopro.com/archives/trojan_1yunti.html)；
 
 ### 套餐价格
@@ -107,10 +106,9 @@
 
 ### 近期测速
 
+![YkkkCloud机场近期测速记录-2025年5月7日.png](https://limbopro.com/usr/uploads/2025/05/2475097206.png)
 ![YkkkCloud机场近期测速记录-2025年4月8日.png](https://limbopro.com/usr/uploads/2025/04/275580340.png)
 ![YkkkCloud机场近期测速记录-2025年3月6日.png](https://limbopro.com/usr/uploads/2025/03/3276252526.png)
-![YkkkCloud机场近期测速记录-2025年2月6日.png](https://limbopro.com/usr/uploads/2025/02/2301812121.png)
-![YkkkCloud机场近期测速记录-2025年1月5日.png](https://limbopro.com/usr/uploads/2025/01/1835743376.png)
 - [最新测速记录](https://limbopro.com/865.html)
 
 ### 套餐价格
@@ -178,3 +176,4 @@
 [20250206]:https://limbopro.com/usr/uploads/2025/02/3476333608.png
 [20250306]:https://limbopro.com/usr/uploads/2025/03/2345479602.png
 [20250408]: https://limbopro.com/usr/uploads/2025/04/1689978179.png
+[20250507]: https://limbopro.com/usr/uploads/2025/05/3537193894.png
