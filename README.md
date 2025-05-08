@@ -136,7 +136,7 @@
 **常规优惠**：无；  
 **购买建议**：新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；  
 
-**注册地址**：[client.ykkk.best](https://client.ykkk.best/#/register?code=igEKGZtF) （最新可登陆域名）； 
+**注册地址**：[client.tunnelx.io](https://client.tunnelx.io/#/register?code=igEKGZtF) （最新可登陆域名）；[client.ykkk.best](https://client.ykkk.best/#/register?code=igEKGZtF)  
 
 #### 节日优惠活动
 
