@@ -49,7 +49,7 @@
 **博客优惠码**：limbopro （在常规优惠的基础上9折；优惠适用于所有产品，每人仅限一次）；  
 **购买建议**：新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；  
 
-**注册地址**：[flyingbird.pro][5]
+**注册地址**：[fba01.fbva-s3h.cc](https://fba01.fbva-s3h.cc/auth/register?code=2Wfw)（未墙）；[fbinv02.fbaff.cc](https://fbinv02.fbaff.cc/auth/register?code=2Wfw)（未墙）；[www.fbweb.cc](https://www.fbweb.cc/auth/register?code=2Wfw)；[flyingbird.cc](https://flyingbird.cc/auth/register?code=2Wfw)；[flyingbird.pro](https://flyingbird.pro/auth/register?code=2Wfw)；[flyingbird.la](https://www.flyingbird.la/auth/register?code=2Wfw)；
 
 ### 节日优惠活动
 
@@ -91,8 +91,7 @@
 **博客优惠码**：无； 
 **购买建议**：新站观察期；新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；  
 
-**注册地址**：[www.1yunti.com](https://www.1yunti.com/register?aff=4PomBTlJ)；  
-[1ytcom01.1yunti.net](https://1ytcom01.1yunti.net/register?aff=4PomBTlJ)；  
+**官网注册地址**：[inv02.1ytaff.com](https://inv02.1ytaff.com/register?aff=4PomBTlJ) （未墙）；[www.1yunti.com](https://www.1yunti.com/register?aff=4PomBTlJ)；[1ytcom01.1yunti.net](https://1ytcom01.1yunti.net/register?aff=4PomBTlJ)；[si01.1yts3zh.cc](https://si01.1yts3zh.cc/register?aff=4PomBTlJ) ；
 
 > 一云梯618活动继续！谢谢给我们机会的你们！  
 1:月/季/半年/年付 8折（配合站内折上折，高达6.4折）优惠码：**2561820OFF** 可重复使用5次  
