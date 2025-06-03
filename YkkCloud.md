@@ -4,6 +4,7 @@
 
 ### 近期测速
 
+![YkkkCloud机场近期测速记录-2025年6月3日.png](https://limbopro.com/usr/uploads/2025/06/1142219173.png)
 ![YkkkCloud机场近期测速记录-2025年5月7日.png](https://limbopro.com/usr/uploads/2025/05/2475097206.png)
 ![YkkkCloud机场近期测速记录-2025年4月8日.png](https://limbopro.com/usr/uploads/2025/04/275580340.png)
 - [最新测速记录](https://limbopro.com/865.html)
