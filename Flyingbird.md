@@ -3,9 +3,9 @@
 **原文地址**：https://limbopro.com/archives/flyingbird.html
 
 ### 近期测速
+![FlyingBird 机场测速-20250706](https://limbopro.com/usr/uploads/2025/07/672280595.png)
 ![FlyingBird 机场测速-20250603](https://limbopro.com/usr/uploads/2025/06/646800254.png)
 ![FlyingBird 机场测速-20250507](https://limbopro.com/usr/uploads/2025/05/3537193894.png)
-![FlyingBird 机场测速-20250408](https://limbopro.com/usr/uploads/2025/04/1689978179.png)
 - [最新测速记录][7]
 
 ### 套餐价格
@@ -28,7 +28,7 @@
 **博客优惠码**：limbopro （在常规优惠的基础上9折；优惠适用于所有产品，每人仅限一次）；  
 **购买建议**：新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；  
 
-**注册地址**：[flyingbird.pro][5]
+**注册地址**：[fba01.fbva-s3h.cc](https://fba01.fbva-s3h.cc/auth/register?code=2Wfw)（未墙）；[fbinv02.fbaff.cc](https://fbinv02.fbaff.cc/auth/register?code=2Wfw)（未墙）；[www.fbweb.cc](https://www.fbweb.cc/auth/register?code=2Wfw)；[flyingbird.cc](https://flyingbird.cc/auth/register?code=2Wfw)；[flyingbird.pro](https://flyingbird.pro/auth/register?code=2Wfw)；[flyingbird.la](https://www.flyingbird.la/auth/register?code=2Wfw)；
 
 ### 节日活动优惠
 
