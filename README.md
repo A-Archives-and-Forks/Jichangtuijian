@@ -1,4 +1,4 @@
-# 机场推荐(2025年6月更新)
+# 机场推荐(2025年7月更新)
 
 ## 较为好用的便宜机场推荐
 100GB/¥15/月起，最高享8折优惠
@@ -9,7 +9,7 @@
 
 > **新年快乐🎆**！特此更新；
 
-> 一切正常，最近可用状态更新于：06.27.2025
+> 一切正常，最近可用状态更新于：07.06.2025
 
 **SS机场/v2Ray机场/Trojan机场/SSR机场推荐（2019-~~2024~~2025）**
 **原文地址**：https://limbopro.com/865.html
@@ -25,9 +25,9 @@
 **原文地址**：https://limbopro.com/archives/flyingbird.html
 
 ### 近期测速
+![FlyingBird 机场测速-20250706][20250706001]
 ![FlyingBird 机场测速-20250603][20250603001]
 ![FlyingBird 机场测速-20250507][20250507]
-![FlyingBird 机场测速-20250408][20250408]
 - [最新测速记录][7]
 
 ### 套餐价格
@@ -63,9 +63,9 @@
 **原文地址**：https://limbopro.com/archives/trojan_1yunti.html
 
 ### 近期测速
+![1云梯机场近期测速 20250706](https://limbopro.com/usr/uploads/2025/07/3334832967.png)
 ![1云梯机场近期测速 20250603](https://limbopro.com/usr/uploads/2025/06/3440805303.png)
 ![1云梯机场近期测速 20250507](https://limbopro.com/usr/uploads/2025/05/879908103.png)
-![1云梯机场近期测速 20250306](https://limbopro.com/usr/uploads/2025/03/3415340292.png)
 - [最新测速记录](https://limbopro.com/archives/trojan_1yunti.html)；
 
 ### 套餐价格
@@ -135,8 +135,7 @@
 **常规优惠**：无；  
 **购买建议**：新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；  
 
-**注册地址**：[client.tunnelx.io](https://client.tunnelx.io/#/register?code=igEKGZtF) （最新可登陆域名）；[client.ykkk.best](https://client.ykkk.best/#/register?code=igEKGZtF)  
-
+**注册地址**：[panel.ykkk.best](https://panel.ykkk.best/#/register?code=igEKGZtF) （最新可登陆域名）；
 #### 节日优惠活动
 
 **节日活动优惠**：
@@ -146,6 +145,7 @@
   [222]: https://www.pexels.com/photo/white-and-black-mountain-wallpaper-933054/
   [333]: https://limbopro.com/usr/uploads/2024/01/1204297660.jpg
   [444]: https://limbopro.com/usr/uploads/2024/01/2297367754.png
+  [20250706001]: https://limbopro.com/usr/uploads/2025/07/672280595.png
 
 [1]: https://limbopro.com/usr/uploads/2021/06/3408110024.png
 [2]: https://limbopro.com/usr/uploads/2022/05/3253779772.png
