@@ -3,6 +3,7 @@
 **原文地址**：https://limbopro.com/archives/flyingbird.html
 
 ### 近期测速
+![FlyingBird 机场测速-20250808](https://limbopro.com/usr/uploads/2025/08/2063952567.png)
 ![FlyingBird 机场测速-20250706](https://limbopro.com/usr/uploads/2025/07/672280595.png)
 ![FlyingBird 机场测速-20250603](https://limbopro.com/usr/uploads/2025/06/646800254.png)
 ![FlyingBird 机场测速-20250507](https://limbopro.com/usr/uploads/2025/05/3537193894.png)
