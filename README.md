@@ -1,4 +1,4 @@
-# 机场推荐(2025年7月更新)
+# 机场推荐(2025年8月更新)
 
 ## 较为好用的便宜机场推荐
 100GB/¥15/月起，最高享8折优惠
@@ -9,7 +9,7 @@
 
 > **新年快乐🎆**！特此更新；
 
-> 一切正常，最近可用状态更新于：07.06.2025
+> 一切正常，最近可用状态更新于：08.07.2025
 
 **SS机场/v2Ray机场/Trojan机场/SSR机场推荐（2019-~~2024~~2025）**
 **原文地址**：https://limbopro.com/865.html
@@ -25,6 +25,7 @@
 **原文地址**：https://limbopro.com/archives/flyingbird.html
 
 ### 近期测速
+![FlyingBird 机场测速-20250808](https://limbopro.com/usr/uploads/2025/08/2063952567.png)
 ![FlyingBird 机场测速-20250706][20250706001]
 ![FlyingBird 机场测速-20250603][20250603001]
 ![FlyingBird 机场测速-20250507][20250507]
@@ -63,6 +64,7 @@
 **原文地址**：https://limbopro.com/archives/trojan_1yunti.html
 
 ### 近期测速
+![1云梯机场近期测速 20250805](https://limbopro.com/usr/uploads/2025/08/1024258374.png)
 ![1云梯机场近期测速 20250706](https://limbopro.com/usr/uploads/2025/07/3334832967.png)
 ![1云梯机场近期测速 20250603](https://limbopro.com/usr/uploads/2025/06/3440805303.png)
 ![1云梯机场近期测速 20250507](https://limbopro.com/usr/uploads/2025/05/879908103.png)
@@ -99,6 +101,11 @@
 原文地址：https://limbopro.com/865.html
 
 ### 近期测速
+
+
+![YkkkCloud机场近期测速记录-2025年8月5日.png](https://limbopro.com/usr/uploads/2025/08/3911683200.jpeg)
+
+> 近期 YkkCloud 已经更新至Vless，暂无测速批量节点测速工具支持测速；以上是 8月5日 群友观看8k 油管视频速度截图，带宽冗余充足；供参考；
 
 ![YkkkCloud机场近期测速记录-2025年6月3日.png](https://limbopro.com/usr/uploads/2025/06/1142219173.png)
 ![YkkkCloud机场近期测速记录-2025年5月7日.png](https://limbopro.com/usr/uploads/2025/05/2475097206.png)
