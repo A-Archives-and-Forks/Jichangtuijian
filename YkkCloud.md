@@ -4,6 +4,12 @@
 
 ### 近期测速
 
+
+![YkkkCloud机场近期测速记录-2025年8月5日.png](https://limbopro.com/usr/uploads/2025/08/3911683200.jpeg)
+
+> 近期 YkkCloud 已经更新至Vless，暂无测速批量节点测速工具支持测速；以上是 8月5日 群友观看8k 油管视频速度截图，带宽冗余充足；供参考；
+
+
 ![YkkkCloud机场近期测速记录-2025年6月3日.png](https://limbopro.com/usr/uploads/2025/06/1142219173.png)
 ![YkkkCloud机场近期测速记录-2025年5月7日.png](https://limbopro.com/usr/uploads/2025/05/2475097206.png)
 ![YkkkCloud机场近期测速记录-2025年4月8日.png](https://limbopro.com/usr/uploads/2025/04/275580340.png)
