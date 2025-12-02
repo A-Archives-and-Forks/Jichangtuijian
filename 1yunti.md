@@ -3,9 +3,8 @@
 **原文地址**：https://limbopro.com/archives/trojan_1yunti.html
 
 ### 近期测速
-
+![1云梯机场近期测速 20251202](https://limbopro.com/usr/uploads/2025/12/3958663552.png)
 ![1云梯机场近期测速 20251102](https://limbopro.com/usr/uploads/2025/11/3697626541.png)
-![1云梯机场近期测速 20251004](https://limbopro.com/usr/uploads/2025/10/2967279697.png)  
 - [最新测速记录](https://limbopro.com/archives/trojan_1yunti.html)；
 
 ### 套餐价格
