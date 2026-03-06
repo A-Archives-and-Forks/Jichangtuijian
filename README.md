@@ -1,4 +1,4 @@
-# 机场推荐(2026年2月更新)
+# 机场推荐(2026年3月更新)
 
 ## 较为好用的便宜机场推荐
 100GB/¥15/月起，最高享8折优惠
@@ -9,7 +9,7 @@
 
 > **新年快乐🎆**！特此更新；
 
-> 一切正常，最近可用状态更新于：2026年2月17日；P.S. 时间缓缓，我们一起跨入四分之二世纪，务必保重身体！！大家！
+> 一切正常，最近可用状态更新于：2026年3月6日；P.S. 时间缓缓，我们一起跨入四分之二世纪，务必保重身体！！大家！
 
 > 转眼12月已至，大家务必注意保暖🧣🧥，小心甲流🥶😷！顺利！12.01.2025 凌晨特别更新
 
@@ -29,9 +29,9 @@
 **原文地址**：https://limbopro.com/archives/flyingbird.html
 
 ### 近期测速
+![FlyingBird 机场测速-20260305](https://limbopro.com/usr/uploads/2026/03/3213488260.png)
 ![FlyingBird 机场测速-20260209](https://limbopro.com/usr/uploads/2026/02/2925561901.png)
 ![FlyingBird 机场测速-20260103](https://limbopro.com/usr/uploads/2026/01/356592198.png)
-![FlyingBird 机场测速-20251202](https://limbopro.com/usr/uploads/2025/12/1417399139.png)
 - [最新测速记录][7]
 
 ### 套餐价格
@@ -70,9 +70,9 @@
 **原文地址**：https://limbopro.com/archives/trojan_1yunti.html
 
 ### 近期测速
+![1云梯机场近期测速 20260306](https://limbopro.com/usr/uploads/2026/03/517563994.png)
 ![1云梯机场近期测速 20260209](https://limbopro.com/usr/uploads/2026/02/1809944954.png)
 ![1云梯机场近期测速 20260103](https://limbopro.com/usr/uploads/2026/01/3310901514.png)
-![1云梯机场近期测速 20251202](https://limbopro.com/usr/uploads/2025/12/3958663552.png)
 - [最新测速记录](https://limbopro.com/archives/trojan_1yunti.html)；
 
 ### 套餐价格
