@@ -19,7 +19,6 @@
 **原文地址**：https://limbopro.com/865.html
 
 其他项目：https://github.com/limbopro —— iOS去网页广告/QX懒人配置/跑路机场名单收集/...  
-机场情报电报频道：https://t.me/airportbbq ——机场各类情报ℹ️更新；  
 毒奶博客资讯电报频道：https://t.me/limboprossr —— 毒奶博客相关资讯ℹ️更新（各类文章/IT资讯/小Tips...）；  
 反馈/联系🤖：https://t.me/limboprobot / service.limbopro.com@gmail.com  
 博客地址：https://limbopro.com/  
