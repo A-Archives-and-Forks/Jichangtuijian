@@ -52,15 +52,21 @@
 **博客优惠码**：limbopro （在常规优惠的基础上9折；优惠适用于所有产品，每人仅限一次）；  
 **购买建议**：新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；
 
+### 关于机场提供的专属客户端App
+
 > “**为了更持续稳定的发展，飞鸟推出专属客户端，专属客户端网络速度已全面恢复正常**！订阅地址将在2周左右暂停使用，请大家更新到专属客户端！！...” 摘取自官网通知；04.07.2026 更新
 
 > 关于机场提供的专属客户端App；给到所有关心电子设备安全的用户的行动建议：**仅授予app必要的权限✅，1.无线局域网和蜂窝网络**，**2.设置VPN连接，iOS 见 设置 - VPN 可以看到，Android 安卓也是**，这个在初次使用代理工具App时会要求安装，是普遍的，必须的。**3.遵循“最小权限原则”进行授权，其他非必要权限一律拒绝❌ (大多数情况下不会跟你要额外的权限或安装不相关的配置文件。那明显时是不正常的。）** 4. **iPhone/Mac/iPad 用户**，可以在 **系统设置** - **隐私与安全性**，查看和修改各类权限（注意：需要指纹/需入密码 授权才能更改）；**一句话总结**：🔐**iPhone/Mac/iPad/Android** 在没有取得你明确授权的情况下，App 想读取你的文件，照片等隐私数据几乎是不可能的。<br><br>**更多隐私与安全设置以及可疑程序安全分析可参阅**：[隐私与安全性设置：将你的iPhone/Mac/iPad/Android/Windows 牢牢掌握在自己手里][54]一文；
 
 > 专属客户端比较傻瓜，登陆，点击开启，按要求安装VPN配置即可使用。内置主流分流规则，暂不支持MITM。
 
+### 后续情报更新
+
 > 目前暂无法确定通报拔线是否会长期持续乃至“变本加厉”，在一切未完全恢复如初之前，购买任何机场，务必**仅月付**；备好备用机场，避免完全掉线；或**等待形势全面好转后再考虑购买**(~~上帝会知道什么时候会全面好转~~)；**后续情况可关注电报频道**：https://t.me/airportbbq1
 
-**注册地址**：[fba01.fbva-s3h.cc](https://fba01.fbva-s3h.cc/auth/register?code=2Wfw)（未墙）；[fbinv02.fbaff.cc](https://fbinv02.fbaff.cc/auth/register?code=2Wfw)（未墙）；[www.fbweb.cc](https://www.fbweb.cc/auth/register?code=2Wfw)；[flyingbird.cc](https://flyingbird.cc/auth/register?code=2Wfw)；[flyingbird.pro](https://flyingbird.pro/auth/register?code=2Wfw)；[flyingbird.la](https://www.flyingbird.la/auth/register?code=2Wfw)；
+### 注册地址
+
+**飞鸟机场注册地址**：[fba01.fbva-s3h.cc](https://fba01.fbva-s3h.cc/auth/register?code=2Wfw)（未墙）；[fbinv02.fbaff.cc](https://fbinv02.fbaff.cc/auth/register?code=2Wfw)（未墙）；[www.fbweb.cc](https://www.fbweb.cc/auth/register?code=2Wfw)；[flyingbird.cc](https://flyingbird.cc/auth/register?code=2Wfw)；[flyingbird.pro](https://flyingbird.pro/auth/register?code=2Wfw)；[flyingbird.la](https://www.flyingbird.la/auth/register?code=2Wfw)；
 
 ### 节日优惠活动
 
@@ -100,6 +106,8 @@
 **博客优惠码**：无； 
 **购买建议**：新站观察期；新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；  
 
+### 关于机场提供的专属客户端App
+
 > “**所有线路已恢复**，新使用方式如下：
 为了能够长期提供稳定的服务，一云梯将改用一云梯自研发客户端，只需登陆帐号其他所有步骤自动化，包括未来所有线路优化！给各位带来的不便深感抱歉；” 04.06.2026 更新；
 
@@ -107,9 +115,13 @@
 
 > 专属客户端比较傻瓜，登陆，点击开启，按要求安装VPN配置即可使用。内置主流分流规则，暂不支持MITM。
 
+### 后续情报更新
+
 > 目前暂无法确定通报拔线是否会长期持续乃至“变本加厉”，在一切未完全恢复如初之前，购买任何机场，务必**仅月付**；备好备用机场，避免完全掉线；或**等待形势全面好转后再考虑购买**(~~上帝会知道什么时候会全面好转~~)；**后续情况可关注电报频道**：https://t.me/airportbbq1
 
-**官网注册地址**：[inv02.1ytaff.com](https://inv02.1ytaff.com/register?aff=4PomBTlJ) （未墙）；[www.1yunti.com](https://www.1yunti.com/register?aff=4PomBTlJ)；[1ytcom01.1yunti.net](https://1ytcom01.1yunti.net/register?aff=4PomBTlJ)；[si01.1yts3zh.cc](https://si01.1yts3zh.cc/register?aff=4PomBTlJ) ；
+### 注册地址
+
+**1云梯官网注册地址**：[inv02.1ytaff.com](https://inv02.1ytaff.com/register?aff=4PomBTlJ) （未墙）；[www.1yunti.com](https://www.1yunti.com/register?aff=4PomBTlJ)；[1ytcom01.1yunti.net](https://1ytcom01.1yunti.net/register?aff=4PomBTlJ)；[si01.1yts3zh.cc](https://si01.1yts3zh.cc/register?aff=4PomBTlJ) ；
 
 ### 节日优惠活动
 
