@@ -20,19 +20,22 @@
 **SS机场/v2Ray机场/Trojan机场/SSR机场推荐（2019-~~2025~~2026）**
 **即时更新参阅原文，原文地址**：https://limbopro.com/865.html
 
-其他项目：https://github.com/limbopro —— iOS去网页广告/QX懒人配置/跑路机场名单收集/...  
-毒奶博客资讯电报频道：https://t.me/limboprossr —— 毒奶博客相关资讯ℹ️更新（各类文章/IT资讯/小Tips...）；  
-反馈/联系🤖：https://t.me/limboprobot / service.limbopro.com@gmail.com  
-博客地址：https://limbopro.com/  
+## 其他/联系方式/搜索
+**其他项目**：https://github.com/limbopro —— iOS去网页广告/QX懒人配置/跑路机场名单收集/...  
+**机场情报(新)**： [Telegram: View @airportbbq1](https://t.me/airportbbq1) ✈️ 近期各类机场情报/电报八卦/语录/... [在线预览频道内容](https://t.me/s/airportbbq1)  
+**毒奶博客资讯电报频道**：https://t.me/limboprossr —— 毒奶博客相关资讯ℹ️更新（各类文章/IT资讯/小Tips... [在线预览频道内容](https://t.me/s/limboprossr)）  
+**反馈/联系**🤖：https://t.me/limboprobot / service.limbopro.com@gmail.com  
+**博客地址**：https://limbopro.com/  
+**毒奶搜索**：https://limbopro.com/search.html —— 毒奶博主的万能搜索引擎  
 
-### 2026年重要事件更新
+## 2026年重要事件更新
 
 最近感觉好多了❤️ 09.2026
 
-#### 08.2026 更新
+### 08.2026 更新
 7-8月，情况大幅缓解，此前处在水深火热的各个机场陆陆续续恢复了生机，也有些机场躺平了。意味着最艰难的阶段(似乎)已经过去，这是一个非常积极的信号。
 
-#### 04.2026 更新
+### 04.2026 更新
 
 自2026年3月中下旬以来：“机场”上游通报拔线还在继续，“中转机场”正处于已无更多线路可用的境地；“特殊时期...大大小小的“机场”都在炸，掉线...断流..卡，短暂恢复又炸...”，如果你持有多个机场的，你应该已经体会到了。
 
